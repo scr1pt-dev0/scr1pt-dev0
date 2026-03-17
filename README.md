@@ -29,5 +29,3 @@ Long term, I want to understand every layer from hardware to user space.
 
 ---
 
-## 📬 Contact
-Other account: https://github.com/optic-fiber
