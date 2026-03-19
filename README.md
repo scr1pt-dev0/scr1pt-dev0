@@ -10,6 +10,7 @@ Breaking stuff, fixing it again, and understanding why it broke is basically my 
 Low‑level behavior, kernels, and weird edge cases are where I feel at home
 
 ![Status](https://img.shields.io/badge/Status-Always%20Learning-blueviolet?style=flat-square)
+![Kernel](https://img.shields.io/badge/Kernel%20Mode-Enjoyer-orange?style=flat-square)
 
 ---
 
